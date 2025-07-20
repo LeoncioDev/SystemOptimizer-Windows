@@ -1,0 +1,175 @@
+
+[2025-07-20 10:16:28]
+[ERRO] SessionEnv: Command '['powershell', '-Command', "Stop-Service -Name 'SessionEnv' -Force"]' returned non-zero exit status 1.
+[ERRO] WpcMonSvc: Command '['powershell', '-Command', "Stop-Service -Name 'WpcMonSvc' -Force"]' returned non-zero exit status 1.
+[ERRO] diagsvc: Command '['powershell', '-Command', "Stop-Service -Name 'diagsvc' -Force"]' returned non-zero exit status 1.
+[ERRO] DiagTrack: Command '['powershell', '-Command', "Stop-Service -Name 'DiagTrack' -Force"]' returned non-zero exit status 1.
+[ERRO] XblAuthManager: Command '['powershell', '-Command', "Stop-Service -Name 'XblAuthManager' -Force"]' returned non-zero exit status 1.
+[ERRO] RasMan: Command '['powershell', '-Command', "Stop-Service -Name 'RasMan' -Force"]' returned non-zero exit status 1.
+[ERRO] Netlogon: Command '['powershell', '-Command', "Stop-Service -Name 'Netlogon' -Force"]' returned non-zero exit status 1.
+[ERRO] pla: Command '['powershell', '-Command', "Stop-Service -Name 'pla' -Force"]' returned non-zero exit status 1.
+[ERRO] workfolderssvc: Command '['powershell', '-Command', "Stop-Service -Name 'workfolderssvc' -Force"]' returned non-zero exit status 1.
+[ERRO] SCPolicySvc: Command '['powershell', '-Command', "Stop-Service -Name 'SCPolicySvc' -Force"]' returned non-zero exit status 1.
+[ERRO] RemoteRegistry: Command '['powershell', '-Command', "Stop-Service -Name 'RemoteRegistry' -Force"]' returned non-zero exit status 1.
+[ERRO] XblGameSave: Command '['powershell', '-Command', "Stop-Service -Name 'XblGameSave' -Force"]' returned non-zero exit status 1.
+[ERRO] WbioSrvc: Command '['powershell', '-Command', "Stop-Service -Name 'WbioSrvc' -Force"]' returned non-zero exit status 1.
+[ERRO] BDESVC: Command '['powershell', '-Command', "Stop-Service -Name 'BDESVC' -Force"]' returned non-zero exit status 1.
+[ERRO] ScDeviceEnum: Command '['powershell', '-Command', "Stop-Service -Name 'ScDeviceEnum' -Force"]' returned non-zero exit status 1.
+[ERRO] lfsvc: Command '['powershell', '-Command', "Stop-Service -Name 'lfsvc' -Force"]' returned non-zero exit status 1.
+[ERRO] icssvc: Command '['powershell', '-Command', "Stop-Service -Name 'icssvc' -Force"]' returned non-zero exit status 1.
+[ERRO] XboxNetApiSvc: Command '['powershell', '-Command', "Stop-Service -Name 'XboxNetApiSvc' -Force"]' returned non-zero exit status 1.
+[ERRO] WerSvc: Command '['powershell', '-Command', "Stop-Service -Name 'WerSvc' -Force"]' returned non-zero exit status 1.
+[ERRO] PhoneSvc: Command '['powershell', '-Command', "Stop-Service -Name 'PhoneSvc' -Force"]' returned non-zero exit status 1.
+[ERRO] InventorySvc: Command '['powershell', '-Command', "Stop-Service -Name 'InventorySvc' -Force"]' returned non-zero exit status 1.
+[ERRO] Sysmain: Command '['powershell', '-Command', "Stop-Service -Name 'Sysmain' -Force"]' returned non-zero exit status 1.
+[ERRO] XboxGipSvc: Command '['powershell', '-Command', "Stop-Service -Name 'XboxGipSvc' -Force"]' returned non-zero exit status 1.
+[ERRO] Fax: Command '['powershell', '-Command', "Stop-Service -Name 'Fax' -Force"]' returned non-zero exit status 1.
+[ERRO] TabletInputService: Command '['powershell', '-Command', "Stop-Service -Name 'TabletInputService' -Force"]' returned non-zero exit status 1.
+[ERRO] dmwappushservice: Command '['powershell', '-Command', "Stop-Service -Name 'dmwappushservice' -Force"]' returned non-zero exit status 1.
+[ERRO] MapsBroker: Command '['powershell', '-Command', "Stop-Service -Name 'MapsBroker' -Force"]' returned non-zero exit status 1.
+[ERRO] diagnosticshub.standardcollector.service: Command '['powershell', '-Command', "Stop-Service -Name 'diagnosticshub.standardcollector.service' -Force"]' returned non-zero exit status 1.
+[ERRO] RetailDemo: Command '['powershell', '-Command', "Stop-Service -Name 'RetailDemo' -Force"]' returned non-zero exit status 1.
+[ERRO] PcaSvc: Command '['powershell', '-Command', "Stop-Service -Name 'PcaSvc' -Force"]' returned non-zero exit status 1.
+[ERRO] WMPNetworkSvc: Command '['powershell', '-Command', "Stop-Service -Name 'WMPNetworkSvc' -Force"]' returned non-zero exit status 1.
+[ERRO] TrkWks: Command '['powershell', '-Command', "Stop-Service -Name 'TrkWks' -Force"]' returned non-zero exit status 1.
+[ERRO] DPS: Command '['powershell', '-Command', "Stop-Service -Name 'DPS' -Force"]' returned non-zero exit status 1.
+
+[2025-07-20 10:19:47]
+[ERRO] SessionEnv: Command '['powershell', '-Command', "Stop-Service -Name 'SessionEnv' -Force"]' returned non-zero exit status 1.
+[ERRO] WpcMonSvc: Command '['powershell', '-Command', "Stop-Service -Name 'WpcMonSvc' -Force"]' returned non-zero exit status 1.
+[ERRO] diagsvc: Command '['powershell', '-Command', "Stop-Service -Name 'diagsvc' -Force"]' returned non-zero exit status 1.
+[ERRO] DiagTrack: Command '['powershell', '-Command', "Stop-Service -Name 'DiagTrack' -Force"]' returned non-zero exit status 1.
+[ERRO] XblAuthManager: Command '['powershell', '-Command', "Stop-Service -Name 'XblAuthManager' -Force"]' returned non-zero exit status 1.
+[ERRO] RasMan: Command '['powershell', '-Command', "Stop-Service -Name 'RasMan' -Force"]' returned non-zero exit status 1.
+[ERRO] Netlogon: Command '['powershell', '-Command', "Stop-Service -Name 'Netlogon' -Force"]' returned non-zero exit status 1.
+[ERRO] pla: Command '['powershell', '-Command', "Stop-Service -Name 'pla' -Force"]' returned non-zero exit status 1.
+[ERRO] workfolderssvc: Command '['powershell', '-Command', "Stop-Service -Name 'workfolderssvc' -Force"]' returned non-zero exit status 1.
+[ERRO] SCPolicySvc: Command '['powershell', '-Command', "Stop-Service -Name 'SCPolicySvc' -Force"]' returned non-zero exit status 1.
+[ERRO] RemoteRegistry: Command '['powershell', '-Command', "Stop-Service -Name 'RemoteRegistry' -Force"]' returned non-zero exit status 1.
+[ERRO] XblGameSave: Command '['powershell', '-Command', "Stop-Service -Name 'XblGameSave' -Force"]' returned non-zero exit status 1.
+[ERRO] WbioSrvc: Command '['powershell', '-Command', "Stop-Service -Name 'WbioSrvc' -Force"]' returned non-zero exit status 1.
+[ERRO] BDESVC: Command '['powershell', '-Command', "Stop-Service -Name 'BDESVC' -Force"]' returned non-zero exit status 1.
+[ERRO] ScDeviceEnum: Command '['powershell', '-Command', "Stop-Service -Name 'ScDeviceEnum' -Force"]' returned non-zero exit status 1.
+[ERRO] lfsvc: Command '['powershell', '-Command', "Stop-Service -Name 'lfsvc' -Force"]' returned non-zero exit status 1.
+[ERRO] icssvc: Command '['powershell', '-Command', "Stop-Service -Name 'icssvc' -Force"]' returned non-zero exit status 1.
+[ERRO] XboxNetApiSvc: Command '['powershell', '-Command', "Stop-Service -Name 'XboxNetApiSvc' -Force"]' returned non-zero exit status 1.
+[ERRO] WerSvc: Command '['powershell', '-Command', "Stop-Service -Name 'WerSvc' -Force"]' returned non-zero exit status 1.
+[ERRO] PhoneSvc: Command '['powershell', '-Command', "Stop-Service -Name 'PhoneSvc' -Force"]' returned non-zero exit status 1.
+[ERRO] InventorySvc: Command '['powershell', '-Command', "Stop-Service -Name 'InventorySvc' -Force"]' returned non-zero exit status 1.
+[ERRO] Sysmain: Command '['powershell', '-Command', "Stop-Service -Name 'Sysmain' -Force"]' returned non-zero exit status 1.
+[ERRO] XboxGipSvc: Command '['powershell', '-Command', "Stop-Service -Name 'XboxGipSvc' -Force"]' returned non-zero exit status 1.
+[ERRO] Fax: Command '['powershell', '-Command', "Stop-Service -Name 'Fax' -Force"]' returned non-zero exit status 1.
+[ERRO] TabletInputService: Command '['powershell', '-Command', "Stop-Service -Name 'TabletInputService' -Force"]' returned non-zero exit status 1.
+[ERRO] dmwappushservice: Command '['powershell', '-Command', "Stop-Service -Name 'dmwappushservice' -Force"]' returned non-zero exit status 1.
+[ERRO] MapsBroker: Command '['powershell', '-Command', "Stop-Service -Name 'MapsBroker' -Force"]' returned non-zero exit status 1.
+[ERRO] diagnosticshub.standardcollector.service: Command '['powershell', '-Command', "Stop-Service -Name 'diagnosticshub.standardcollector.service' -Force"]' returned non-zero exit status 1.
+[ERRO] RetailDemo: Command '['powershell', '-Command', "Stop-Service -Name 'RetailDemo' -Force"]' returned non-zero exit status 1.
+[ERRO] PcaSvc: Command '['powershell', '-Command', "Stop-Service -Name 'PcaSvc' -Force"]' returned non-zero exit status 1.
+[ERRO] WMPNetworkSvc: Command '['powershell', '-Command', "Stop-Service -Name 'WMPNetworkSvc' -Force"]' returned non-zero exit status 1.
+[ERRO] TrkWks: Command '['powershell', '-Command', "Stop-Service -Name 'TrkWks' -Force"]' returned non-zero exit status 1.
+[ERRO] DPS: Command '['powershell', '-Command', "Stop-Service -Name 'DPS' -Force"]' returned non-zero exit status 1.
+
+[2025-07-20 10:24:00]
+[ERRO] SessionEnv: Command '['powershell', '-Command', "Stop-Service -Name 'SessionEnv' -Force"]' returned non-zero exit status 1.
+[ERRO] WpcMonSvc: Command '['powershell', '-Command', "Stop-Service -Name 'WpcMonSvc' -Force"]' returned non-zero exit status 1.
+[ERRO] diagsvc: Command '['powershell', '-Command', "Stop-Service -Name 'diagsvc' -Force"]' returned non-zero exit status 1.
+[ERRO] DiagTrack: Command '['powershell', '-Command', "Stop-Service -Name 'DiagTrack' -Force"]' returned non-zero exit status 1.
+[ERRO] XblAuthManager: Command '['powershell', '-Command', "Stop-Service -Name 'XblAuthManager' -Force"]' returned non-zero exit status 1.
+[ERRO] RasMan: Command '['powershell', '-Command', "Stop-Service -Name 'RasMan' -Force"]' returned non-zero exit status 1.
+[ERRO] Netlogon: Command '['powershell', '-Command', "Stop-Service -Name 'Netlogon' -Force"]' returned non-zero exit status 1.
+[ERRO] pla: Command '['powershell', '-Command', "Stop-Service -Name 'pla' -Force"]' returned non-zero exit status 1.
+[ERRO] workfolderssvc: Command '['powershell', '-Command', "Stop-Service -Name 'workfolderssvc' -Force"]' returned non-zero exit status 1.
+[ERRO] SCPolicySvc: Command '['powershell', '-Command', "Stop-Service -Name 'SCPolicySvc' -Force"]' returned non-zero exit status 1.
+[ERRO] RemoteRegistry: Command '['powershell', '-Command', "Stop-Service -Name 'RemoteRegistry' -Force"]' returned non-zero exit status 1.
+[ERRO] XblGameSave: Command '['powershell', '-Command', "Stop-Service -Name 'XblGameSave' -Force"]' returned non-zero exit status 1.
+[ERRO] WbioSrvc: Command '['powershell', '-Command', "Stop-Service -Name 'WbioSrvc' -Force"]' returned non-zero exit status 1.
+[ERRO] BDESVC: Command '['powershell', '-Command', "Stop-Service -Name 'BDESVC' -Force"]' returned non-zero exit status 1.
+[ERRO] ScDeviceEnum: Command '['powershell', '-Command', "Stop-Service -Name 'ScDeviceEnum' -Force"]' returned non-zero exit status 1.
+[ERRO] lfsvc: Command '['powershell', '-Command', "Stop-Service -Name 'lfsvc' -Force"]' returned non-zero exit status 1.
+[ERRO] icssvc: Command '['powershell', '-Command', "Stop-Service -Name 'icssvc' -Force"]' returned non-zero exit status 1.
+[ERRO] XboxNetApiSvc: Command '['powershell', '-Command', "Stop-Service -Name 'XboxNetApiSvc' -Force"]' returned non-zero exit status 1.
+[ERRO] WerSvc: Command '['powershell', '-Command', "Stop-Service -Name 'WerSvc' -Force"]' returned non-zero exit status 1.
+[ERRO] PhoneSvc: Command '['powershell', '-Command', "Stop-Service -Name 'PhoneSvc' -Force"]' returned non-zero exit status 1.
+[ERRO] InventorySvc: Command '['powershell', '-Command', "Stop-Service -Name 'InventorySvc' -Force"]' returned non-zero exit status 1.
+[ERRO] Sysmain: Command '['powershell', '-Command', "Stop-Service -Name 'Sysmain' -Force"]' returned non-zero exit status 1.
+[ERRO] XboxGipSvc: Command '['powershell', '-Command', "Stop-Service -Name 'XboxGipSvc' -Force"]' returned non-zero exit status 1.
+[ERRO] Fax: Command '['powershell', '-Command', "Stop-Service -Name 'Fax' -Force"]' returned non-zero exit status 1.
+[ERRO] TabletInputService: Command '['powershell', '-Command', "Stop-Service -Name 'TabletInputService' -Force"]' returned non-zero exit status 1.
+[ERRO] dmwappushservice: Command '['powershell', '-Command', "Stop-Service -Name 'dmwappushservice' -Force"]' returned non-zero exit status 1.
+[ERRO] MapsBroker: Command '['powershell', '-Command', "Stop-Service -Name 'MapsBroker' -Force"]' returned non-zero exit status 1.
+[ERRO] diagnosticshub.standardcollector.service: Command '['powershell', '-Command', "Stop-Service -Name 'diagnosticshub.standardcollector.service' -Force"]' returned non-zero exit status 1.
+[ERRO] RetailDemo: Command '['powershell', '-Command', "Stop-Service -Name 'RetailDemo' -Force"]' returned non-zero exit status 1.
+[ERRO] PcaSvc: Command '['powershell', '-Command', "Stop-Service -Name 'PcaSvc' -Force"]' returned non-zero exit status 1.
+[ERRO] WMPNetworkSvc: Command '['powershell', '-Command', "Stop-Service -Name 'WMPNetworkSvc' -Force"]' returned non-zero exit status 1.
+[ERRO] TrkWks: Command '['powershell', '-Command', "Stop-Service -Name 'TrkWks' -Force"]' returned non-zero exit status 1.
+[ERRO] DPS: Command '['powershell', '-Command', "Stop-Service -Name 'DPS' -Force"]' returned non-zero exit status 1.
+
+[2025-07-20 10:26:50]
+[ERRO] SessionEnv: Command '['powershell', '-Command', "Stop-Service -Name 'SessionEnv' -Force"]' returned non-zero exit status 1.
+[ERRO] WpcMonSvc: Command '['powershell', '-Command', "Stop-Service -Name 'WpcMonSvc' -Force"]' returned non-zero exit status 1.
+[ERRO] diagsvc: Command '['powershell', '-Command', "Stop-Service -Name 'diagsvc' -Force"]' returned non-zero exit status 1.
+[ERRO] DiagTrack: Command '['powershell', '-Command', "Stop-Service -Name 'DiagTrack' -Force"]' returned non-zero exit status 1.
+[ERRO] XblAuthManager: Command '['powershell', '-Command', "Stop-Service -Name 'XblAuthManager' -Force"]' returned non-zero exit status 1.
+[ERRO] RasMan: Command '['powershell', '-Command', "Stop-Service -Name 'RasMan' -Force"]' returned non-zero exit status 1.
+[ERRO] Netlogon: Command '['powershell', '-Command', "Stop-Service -Name 'Netlogon' -Force"]' returned non-zero exit status 1.
+[ERRO] pla: Command '['powershell', '-Command', "Stop-Service -Name 'pla' -Force"]' returned non-zero exit status 1.
+[ERRO] workfolderssvc: Command '['powershell', '-Command', "Stop-Service -Name 'workfolderssvc' -Force"]' returned non-zero exit status 1.
+[ERRO] SCPolicySvc: Command '['powershell', '-Command', "Stop-Service -Name 'SCPolicySvc' -Force"]' returned non-zero exit status 1.
+[ERRO] RemoteRegistry: Command '['powershell', '-Command', "Stop-Service -Name 'RemoteRegistry' -Force"]' returned non-zero exit status 1.
+[ERRO] XblGameSave: Command '['powershell', '-Command', "Stop-Service -Name 'XblGameSave' -Force"]' returned non-zero exit status 1.
+[ERRO] WbioSrvc: Command '['powershell', '-Command', "Stop-Service -Name 'WbioSrvc' -Force"]' returned non-zero exit status 1.
+[ERRO] BDESVC: Command '['powershell', '-Command', "Stop-Service -Name 'BDESVC' -Force"]' returned non-zero exit status 1.
+[ERRO] ScDeviceEnum: Command '['powershell', '-Command', "Stop-Service -Name 'ScDeviceEnum' -Force"]' returned non-zero exit status 1.
+[ERRO] lfsvc: Command '['powershell', '-Command', "Stop-Service -Name 'lfsvc' -Force"]' returned non-zero exit status 1.
+[ERRO] icssvc: Command '['powershell', '-Command', "Stop-Service -Name 'icssvc' -Force"]' returned non-zero exit status 1.
+[ERRO] XboxNetApiSvc: Command '['powershell', '-Command', "Stop-Service -Name 'XboxNetApiSvc' -Force"]' returned non-zero exit status 1.
+[ERRO] WerSvc: Command '['powershell', '-Command', "Stop-Service -Name 'WerSvc' -Force"]' returned non-zero exit status 1.
+[ERRO] PhoneSvc: Command '['powershell', '-Command', "Stop-Service -Name 'PhoneSvc' -Force"]' returned non-zero exit status 1.
+[ERRO] InventorySvc: Command '['powershell', '-Command', "Stop-Service -Name 'InventorySvc' -Force"]' returned non-zero exit status 1.
+[ERRO] Sysmain: Command '['powershell', '-Command', "Stop-Service -Name 'Sysmain' -Force"]' returned non-zero exit status 1.
+[ERRO] XboxGipSvc: Command '['powershell', '-Command', "Stop-Service -Name 'XboxGipSvc' -Force"]' returned non-zero exit status 1.
+[ERRO] Fax: Command '['powershell', '-Command', "Stop-Service -Name 'Fax' -Force"]' returned non-zero exit status 1.
+[ERRO] TabletInputService: Command '['powershell', '-Command', "Stop-Service -Name 'TabletInputService' -Force"]' returned non-zero exit status 1.
+[ERRO] dmwappushservice: Command '['powershell', '-Command', "Stop-Service -Name 'dmwappushservice' -Force"]' returned non-zero exit status 1.
+[ERRO] MapsBroker: Command '['powershell', '-Command', "Stop-Service -Name 'MapsBroker' -Force"]' returned non-zero exit status 1.
+[ERRO] diagnosticshub.standardcollector.service: Command '['powershell', '-Command', "Stop-Service -Name 'diagnosticshub.standardcollector.service' -Force"]' returned non-zero exit status 1.
+[ERRO] RetailDemo: Command '['powershell', '-Command', "Stop-Service -Name 'RetailDemo' -Force"]' returned non-zero exit status 1.
+[ERRO] PcaSvc: Command '['powershell', '-Command', "Stop-Service -Name 'PcaSvc' -Force"]' returned non-zero exit status 1.
+[ERRO] WMPNetworkSvc: Command '['powershell', '-Command', "Stop-Service -Name 'WMPNetworkSvc' -Force"]' returned non-zero exit status 1.
+[ERRO] TrkWks: Command '['powershell', '-Command', "Stop-Service -Name 'TrkWks' -Force"]' returned non-zero exit status 1.
+[ERRO] DPS: Command '['powershell', '-Command', "Stop-Service -Name 'DPS' -Force"]' returned non-zero exit status 1.
+
+[2025-07-20 10:26:55]
+[ERRO] SessionEnv: Command '['powershell', '-Command', "Set-Service -Name 'SessionEnv' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] WpcMonSvc: Command '['powershell', '-Command', "Set-Service -Name 'WpcMonSvc' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] diagsvc: Command '['powershell', '-Command', "Set-Service -Name 'diagsvc' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] DiagTrack: Command '['powershell', '-Command', "Set-Service -Name 'DiagTrack' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] XblAuthManager: Command '['powershell', '-Command', "Set-Service -Name 'XblAuthManager' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] RasMan: Command '['powershell', '-Command', "Set-Service -Name 'RasMan' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] Netlogon: Command '['powershell', '-Command', "Set-Service -Name 'Netlogon' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] pla: Command '['powershell', '-Command', "Set-Service -Name 'pla' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] workfolderssvc: Command '['powershell', '-Command', "Set-Service -Name 'workfolderssvc' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] SCPolicySvc: Command '['powershell', '-Command', "Set-Service -Name 'SCPolicySvc' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] RemoteRegistry: Command '['powershell', '-Command', "Set-Service -Name 'RemoteRegistry' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] XblGameSave: Command '['powershell', '-Command', "Set-Service -Name 'XblGameSave' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] WbioSrvc: Command '['powershell', '-Command', "Set-Service -Name 'WbioSrvc' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] BDESVC: Command '['powershell', '-Command', "Set-Service -Name 'BDESVC' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] ScDeviceEnum: Command '['powershell', '-Command', "Set-Service -Name 'ScDeviceEnum' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] lfsvc: Command '['powershell', '-Command', "Set-Service -Name 'lfsvc' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] icssvc: Command '['powershell', '-Command', "Set-Service -Name 'icssvc' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] XboxNetApiSvc: Command '['powershell', '-Command', "Set-Service -Name 'XboxNetApiSvc' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] WerSvc: Command '['powershell', '-Command', "Set-Service -Name 'WerSvc' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] PhoneSvc: Command '['powershell', '-Command', "Set-Service -Name 'PhoneSvc' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] InventorySvc: Command '['powershell', '-Command', "Set-Service -Name 'InventorySvc' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] Sysmain: Command '['powershell', '-Command', "Set-Service -Name 'Sysmain' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] XboxGipSvc: Command '['powershell', '-Command', "Set-Service -Name 'XboxGipSvc' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] Fax: Command '['powershell', '-Command', "Set-Service -Name 'Fax' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] TabletInputService: Command '['powershell', '-Command', "Set-Service -Name 'TabletInputService' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] dmwappushservice: Command '['powershell', '-Command', "Set-Service -Name 'dmwappushservice' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] MapsBroker: Command '['powershell', '-Command', "Set-Service -Name 'MapsBroker' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] diagnosticshub.standardcollector.service: Command '['powershell', '-Command', "Set-Service -Name 'diagnosticshub.standardcollector.service' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] RetailDemo: Command '['powershell', '-Command', "Set-Service -Name 'RetailDemo' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] PcaSvc: Command '['powershell', '-Command', "Set-Service -Name 'PcaSvc' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] WMPNetworkSvc: Command '['powershell', '-Command', "Set-Service -Name 'WMPNetworkSvc' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] TrkWks: Command '['powershell', '-Command', "Set-Service -Name 'TrkWks' -StartupType Manual"]' returned non-zero exit status 1.
+[ERRO] DPS: Command '['powershell', '-Command', "Set-Service -Name 'DPS' -StartupType Manual"]' returned non-zero exit status 1.
